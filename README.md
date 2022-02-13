@@ -10,5 +10,10 @@ Coletamos os dados através dos site do governo do Reino Unido que disponibilizo
 **Topic:** Environment<br>
 **Licence:** Open Government Licence<br>
 <br>
-Após a coleta, foram feitas tratativas nos dados de forma que pudessem ser utilizadas seguindo algumas condições para avaliação dos algoritmos disponibilizados nos arquivos arquivos com a extensão .arff.
+Após a coleta, foram feitas tratativas nos dados de forma que pudessem ser utilizadas seguindo algumas condições para avaliação dos algoritmos disponibilizados nos arquivos arquivos com a extensão .arff que foram utilizados nas análises junto à ferramenta Massive Online Analysis (MOA).<br>
+Segue o link para o meu artigo publicado no congresso da IWSSIP no ano de 2020:<br>
+
+<a href="https://ieeexplore.ieee.org/abstract/document/9145123">Energy Consumption Prediction using Data Stream Learning for Commercial Buildings</a><br>
+**Published in:** 2020 International Conference on Systems, Signals and Image Processing (IWSSIP)<br>
+**Date of Conference:** 1-3 July 2020<br>
 
